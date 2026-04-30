@@ -1,0 +1,5 @@
+{
+  "name": "Book Printing Quote System",
+  "description": "A professional book printing estimation and ordering page with dynamic price calculation based on size, paper, and processing options.",
+  "requestFramePermissions": []
+}
